@@ -1,0 +1,16 @@
+# GREEN API Project
+
+## Overview
+
+A simple web interface for interacting with the GREEN API, including message and file sending.
+
+## Features
+
+- Input validation for required fields, phone numbers, URLs, and instance IDs.
+- API requests for settings, state, sending messages, and files.
+- Responsive UI with error handling.
+
+## Setup
+
+1. Clone the repository.
+2. Open `index.html` in your browser.
